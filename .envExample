@@ -1,0 +1,7 @@
+DB_CONNECT = Adicionar string only
+TOKEN_SECRET = Adicionar token
+
+****** Observação ******
+Após adicionar as informações sensíveis,
+renomeie este arquivo para .env
+e apague esta observação
